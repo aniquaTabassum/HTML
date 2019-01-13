@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> First Page</title>
+		<link type = "text/css" rel="stylesheet" href="css/mystylesheet.css"/>
+
+		
+	</head>
+	<body>
+		<div class = "heading">
+		<h1> Catstagram</h1>
+		</div>
+		
+		<div class = "pictures">
+		
+			<img src = "images/cat.jpg"/>
+			
+		</div>
+		<div class = "heading">
+			<p>Cats are cute. Cats are nice. Everyone should own a cat. There's no such thing as too many cats</p>
+		</div>
+		<div class = "pictures">
+		
+			<img src = "images/cat2.jpg"/>
+			
+		</div>
+	</body>
+</html>
